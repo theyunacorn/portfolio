@@ -3,7 +3,7 @@ html, body{
 	margin: 0;
 }
 
-header{ 
+header { 
 	background-color: #e6e6ff;
 	padding: 40px 60px 40px 60px;
 	text-align: center}
@@ -19,7 +19,8 @@ header img{
 	border: 10px solid #ffe6f7}
 
 .content{
-	max-width: 500px;
+	text-align: left;
+	max-width: 1000px;
     margin: 0 auto;
     background-color: aliceblue;
     padding: 0 20px;
